@@ -1,2 +1,2 @@
 # cro
-Loading page for CRO experiments
+loading page for CRO experiments
