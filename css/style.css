@@ -1,6 +1,9 @@
 body {
   background-color: #ebebe8;
   color: #1073a5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
