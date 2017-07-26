@@ -18,10 +18,19 @@ q {
         weight: 300;
     }
     margin-bottom: 1.25rem;
-    text-transform: uppercase;
 }
 
 .photo {
     border-radius: 50%;
     height: 3.125rem;
+    vertical-alignment:
+}
+
+cite {
+    font: {
+        style: normal;
+        weight: 700;
+    }
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
 }
