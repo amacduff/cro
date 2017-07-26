@@ -17,14 +17,16 @@ q {
         style: italic;
         weight: 300;
     }
-    margin-bottom: 1.875rem;
+    margin-bottom: 1.25rem;
 }
 
 cite {
+    border-top: 2px solid white;
     font: {
         style: normal;
         weight: 700;
     }
     letter-spacing: 0.15rem;
+    padding: 0.625rem 2.5rem 0 2.5rem;
     text-transform: uppercase;
 }
