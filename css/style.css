@@ -17,11 +17,9 @@ q {
 }
 
 cite {
-  border-top: 2px solid white;
   font-style: normal;
   font-weight: 700;
   letter-spacing: 0.15rem;
-  padding: 0.625rem 2.5rem 0 2.5rem;
   text-transform: uppercase;
 }
 
