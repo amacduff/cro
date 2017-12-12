@@ -5,19 +5,20 @@ body {
 
 body {
   align-items: center;
-  background-color: #9d7bae;
+  background-color: #54C159;
   color: #ffffff;
   display: flex;
   font-family: 'Open Sans', sans-serif;
   justify-content: center;
   text-align: center;
+  -webkit-font-smoothing: antialiased;
 }
 
 q {
   display: block;
+  font-family: 'Crimson Text', serif;
   font-size: 3rem;
   font-style: italic;
-  font-weight: 300;
   margin-bottom: 1.25rem;
 }
 
