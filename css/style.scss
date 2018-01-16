@@ -5,7 +5,7 @@ body {
 
 body {
   align-items: center;
-  background-color: #54C159;
+  background-color: #086585;
   color: #ffffff;
   display: flex;
   font: {
@@ -19,11 +19,12 @@ body {
 q {
   display: block;
   font: {
-    family: 'Crimson Text', serif;
+    family: 'Open Sans', sans-serif;
     size: 3rem;
     style: italic;
+    weight: 600;
   }
-  margin-bottom: 1.25rem;
+  margin-bottom: 4rem;
 }
 
 cite {

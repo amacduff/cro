@@ -1,33 +1,30 @@
 html,
 body {
-  height: 100%;
-}
+  height: 100%; }
 
 body {
   align-items: center;
-  background-color: #359639;
+  background-color: #086585;
   color: #ffffff;
   display: flex;
   font-family: 'Open Sans', sans-serif;
   justify-content: center;
   text-align: center;
-  -webkit-font-smoothing: antialiased;
-}
+  -webkit-font-smoothing: antialiased; }
 
 q {
   display: block;
-  font-family: 'Crimson Text', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 3rem;
   font-style: italic;
-  margin-bottom: 1.25rem;
-}
+  font-weight: 600;
+  margin-bottom: 4rem; }
 
 cite {
   font-style: normal;
   font-weight: 700;
   letter-spacing: 0.15rem;
   opacity: 0.5;
-  text-transform: uppercase;
-}
+  text-transform: uppercase; }
 
 /*# sourceMappingURL=style.css.map */
